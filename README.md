@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dsheng.chen
-- 📫 How to reach me ...you can touch me by emial : sexluna@outlook.com
+- 📫 sexluna@outlook.com
 -
 
 
