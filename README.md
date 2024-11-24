@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dsheng.chen
 - 📫 sexluna@outlook.com
--
+- [CSDN博客](https://blog.csdn.net/sexyluna)
+- [Github博客](https://sexjun.github.io/) || [vercel镜像Github博客](https://sexjun-github-io.vercel.app/)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sexjun)
