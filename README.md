@@ -3,12 +3,12 @@
 -
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sexjun)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sexjun)
+![trophy](https://github-profile-trophy.vercel.app/?username=sexjun)
 ![visitors](https://visitor-badge.glitch.me/badge?sexjun=page.id&left_color=green&right_color=red)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
-![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sexjun)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sexjun)
 
 
 <!---
